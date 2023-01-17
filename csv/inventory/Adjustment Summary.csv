@@ -1,0 +1,10 @@
+"Adjustment Summary"
+
+Affiliate,All
+Reference,All
+Classification,All
+Item,All
+Date,"08/16/2021 00:00 to 09/16/2021 23:45"
+
+Affiliate,Date,Reference,"Item Name",Unit,Classification,"Balance Qty","Actual Qty",Cost,Short,Over
+"Syntactics, Inc.","2020-06-12 20:44:22","IAD - 1","Iterm 2",ml,Tools,0.00,2.00,0.00,0.00,1.00

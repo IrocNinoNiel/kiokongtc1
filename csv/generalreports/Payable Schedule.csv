@@ -1,0 +1,9 @@
+"Payable Schedule"
+
+"Supplier Name",All
+"Date From",11/21/2021
+"Date To",12/21/2021
+
+Affiliate,"Transaction Date ","Due Date",Reference,Supplier,Amount,Balance
+"Syntactics, Inc.","2021-12-21 11:09:50",,RR-1,"New Supplier","4,342.50","4,342.50"
+,,,,,"4,342.50","4,342.50"

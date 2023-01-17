@@ -1,0 +1,9 @@
+"Aging of Payables"
+
+Affiliate,
+Supplier,All
+"Records As Of",12/21/2021
+
+Affiliate,Supplier,Current,"30-59 Days","60-89 Days","90 Days and Above",Total
+"Syntactics, Inc.","New Supplier","4,342.50",0.00,0.00,0.00,"4,342.50"
+,,"4,342.50",0.00,0.00,0.00,"4,342.50"

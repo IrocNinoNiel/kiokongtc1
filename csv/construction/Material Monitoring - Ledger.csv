@@ -1,0 +1,10 @@
+"Material Monitoring - Ledger"
+Affiliate,"Syntactics, Inc."
+"Project Name","Project Name"
+Item,"Nescafe Coffee"
+Date,05/19/2022
+
+Affiliate,Date,Reference,Quantity,Unit,"Unit Price",Amount
+"Syntactics, Inc.",2022-05-18,PA-44,1,ml,30,30.00
+"Syntactics, Inc.",2022-05-18,PA-45,5,ml,30,150.00
+"Syntactics, Inc.",2022-05-18,PA-46,7,ml,30,210.00

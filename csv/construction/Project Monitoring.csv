@@ -1,0 +1,12 @@
+"Project Monitoring"
+Affiliate,All
+"Project Name",All
+"As of Date",2023-01-16
+
+"Affiliate Name","Contract ID","Project Name","Contract Duration","Contract Amount","Contract Effectivity","Contract Expiry","License Used","License Type",Status,"Status Type","Percent Accomplished","Warranty Date From","Warranty Date To"
+"Syntactics, Inc.",,"Project Name",100,50000,06/08/2022,06/08/2022,123,Admin,Ongoing,Advance,222.00%,05/08/2022,06/08/2022
+"Syntactics, Inc.",,"Project 02",2,30000000,08/17/2022,08/17/2024,XYZ,"In Royalty",Ongoing,On-Time,7600.00%,07/17/2022,08/17/2022
+"Syntactics, Inc.",,"Sample Project",2,5000000,12/01/2021,06/30/2023,ABC,"Out Royalty",Ongoing,Advance,20550.00%,07/17/2022,06/30/2023
+"Syntactics, Inc.",,"Old Project",1,500000,05/01/2022,05/06/2022,ABC,"Out Royalty",Completed,On-Time,26000.00%,04/14/2022,06/17/2022
+"Syntactics, Inc.",234,"Test Project with Contract ID",123,123,08/18/2022,08/18/2022,213,"In Royalty",Suspended,Slippage,122.76%,07/18/2022,08/18/2022
+"Syntactics, Inc.",1245465,"Latest Project",10000,1500000,08/25/2021,08/19/2022,Test,"Out Royalty",Completed,Advance,5.09%,07/19/2022,08/19/2022

@@ -1,0 +1,27 @@
+"Receiving Summary"
+
+Affiliate,All
+"Cost Center",
+Reference,All
+Classification,All
+Supplier,
+Date,"08/16/2021 to 08/16/2021"
+Time,"00:00 to 14:39"
+Affiliate,"Cost Center",Date,Reference,Supplier,"Item Name","Item Classification",Cost,Quantity,Total
+"Syntactics, Inc.",,,2021-08-19,SR-3,"M Supply Corp","Nescafe Coffee",Beverage,0.00,10.00,0.00
+"Syntactics, Inc.",,,2021-08-19,RR-11,"M Supply Corp","Del Monte Pineapple Juice",Beverage,24.50,100.00,"2,450.00"
+"Syntactics, Inc.",,,2021-08-19,RR-12,"M Supply Corp","Nescafe Coffee",Beverage,30.00,5.00,150.00
+"H Company",,,2021-08-19,ST-3,"Supplier with credit limit","Del Monte Pineapple Juice",Beverage,24.50,100.00,"2,450.00"
+"H Company",,,2021-08-19,ST-3,"Supplier with credit limit",,,300.00,"2,000.00","600,000.00"
+"H Company",,,2021-08-19,ST-3,"Supplier with credit limit","New Item",Tools,189.00,"2,000.00","378,000.00"
+"H Company",,,2021-08-19,ST-1,"Supplier with credit limit","Nescafe Coffee",Beverage,0.00,100.00,0.00
+"H Company",,,2021-08-19,ST-1,"Supplier with credit limit","Del Monte Pineapple Juice",Beverage,24.50,100.00,"2,450.00"
+"H Company",,,2021-08-19,ST-1,"Supplier with credit limit",,,132.00,20.00,"2,640.00"
+"Syntactics, Inc.",,,2021-08-19,IC-1,,"Nescafe Coffee",Beverage,0.00,10.00,0.00
+"Syntactics, Inc.",,,2021-08-18,SR-2,,,,132.00,2.00,264.00
+"Syntactics, Inc.",,,2021-08-18,RR-10,"M Supply Corp","Del Monte Pineapple Juice",Beverage,24.50,100.00,"2,450.00"
+"Syntactics, Inc.",,,2021-08-18,RR-9,"M Supply Corp",,,0.00,0.00,0.00
+"Syntactics, Inc.",,,2021-08-18,RR-9,"M Supply Corp","Sample Item","Sample Class",150.00,50.00,"7,500.00"
+"Syntactics, Inc.",,,2021-08-18,RR-9,"M Supply Corp","New Item",Tools,189.00,50.00,"9,450.00"
+"Syntactics, Inc.",,,2021-08-18,RR-9,"M Supply Corp","Del Monte Pineapple Juice",Beverage,24.50,50.00,"1,225.00"
+"Syntactics, Inc.",,,2021-08-18,RR-9,"M Supply Corp","Nescafe Coffee",Beverage,30.00,100.00,"3,000.00"

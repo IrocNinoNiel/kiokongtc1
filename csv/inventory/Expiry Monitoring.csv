@@ -1,0 +1,8 @@
+"Expiry Monitoring"
+
+Affiliate,"Date Received",Reference,Code,"Item Name",Classification,Unit,Qty,"Expiry Date","Remaining Days"
+"Syntactics, Inc.",08/18/2021,"RR - 9",0002,"Nescafe Coffee",Beverage,Milliliter,0,,0
+"Syntactics, Inc.",08/19/2021,"IC - 1",0002,"Nescafe Coffee",Beverage,Milliliter,0,10/15/2021,29
+"Syntactics, Inc.",08/19/2021,"RR - 12",0002,"Nescafe Coffee",Beverage,Milliliter,0,08/27/2023,710
+"Syntactics, Inc.",08/19/2021,"SR - 3",0002,"Nescafe Coffee",Beverage,Milliliter,0,,0
+"H Company",08/19/2021,"ST - 1",0002,"Nescafe Coffee",Beverage,Milliliter,0,,0

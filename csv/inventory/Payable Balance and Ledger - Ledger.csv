@@ -1,0 +1,9 @@
+"Payable Balance and Ledger - Ledger"
+
+Affiliate,"Syntactics, Inc."
+Supplier,"QA Supplier"
+Date,"04/20/2021 to 05/20/2022"
+Date,Ref.,"Payment Type",Particulars,Amount,Payments,Balance
+,,,"Beginning Balance",0.00,0.00,0.00
+03/03/2022,"RR - 4",Cash,,"44,850.00",0.00,"44,850.00"
+,,,,"44,850.00",0.00,"44,850.00"

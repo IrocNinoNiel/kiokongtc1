@@ -1,0 +1,11 @@
+"Aging of Receivables"
+
+Affiliate,
+Customer,Mark
+"Records As Of",12/21/2021
+
+Affiliate,Customer,Current,"30-59 Days","60-89 Days","90 Days and Above",Total
+"Syntactics, Inc.",Mark,0.00,0.00,0.00,0.00,0.00
+Cairo,Mark,0.00,0.00,0.00,0.00,0.00
+"Test Affiliate",Mark,0.00,0.00,0.00,0.00,0.00
+,,0.00,0.00,0.00,0.00,0.00

@@ -1,0 +1,16 @@
+"Inventory Ledger"
+
+Affiliate,"Syntactics, Inc."
+"Item Name","New Item"
+Classification,Tools
+Unit,Meter
+Price,189
+"Reorder Point",100
+Date,"08/16/2021 to 09/16/2021"
+
+Date,Reference,Supplier/Customer,Price,Cost,Received,Released,Balance
+,,"Beginning Balance","3,780.00",0.00,20,0,20
+"2021-08-18 14:54:00","RR - 9",43317a2ee20cbb22f3dd119b647da24c85836f795c19efca937857a48612c1bdb18b080624788462efc4c512bf3aeb475ddeb8d20aeafed311002c406667c503vRVpOKRqZvCycFsJXpfSwbWxweCHH2Fygk6otlT+k4k=,0.00,189.00,50,0,70
+"2021-08-18 15:07:00","PR - 3",43317a2ee20cbb22f3dd119b647da24c85836f795c19efca937857a48612c1bdb18b080624788462efc4c512bf3aeb475ddeb8d20aeafed311002c406667c503vRVpOKRqZvCycFsJXpfSwbWxweCHH2Fygk6otlT+k4k=,0.00,189.00,0,0,70
+"2021-08-18 15:16:35","PR - 4",43317a2ee20cbb22f3dd119b647da24c85836f795c19efca937857a48612c1bdb18b080624788462efc4c512bf3aeb475ddeb8d20aeafed311002c406667c503vRVpOKRqZvCycFsJXpfSwbWxweCHH2Fygk6otlT+k4k=,0.00,189.00,0,50,20
+"2021-09-14 09:08:00","SA - 1",8843d0044d599124f1a3470b75f6bb1eed6ff31a60ddb50c075687fe12d7a58648a5fb84d1914c7aa4421881be55e1e1de55c0fe31b3a7949e7f2344ec06e963/oARreONWneMaA4BfEUVX8jDXFazr4vcWaFBAQsF7mA=,189.00,0.00,0,20,0

@@ -1,0 +1,11 @@
+"Fuel Monitoring"
+Affiliate,"Syntactics, Inc."
+"Truck Type",All
+"Plate Number",All
+Driver,All
+Date,"2022-01-03 to 2022-10-10"
+
+Affiliate,Date,"Plate Number","Truck Type","Fuel Consumed"
+"Syntactics, Inc.",2022-10-09,"ABC 1234","Dump Truck",0
+"Syntactics, Inc.",2022-02-21,1232312312,"Dump Truck",500
+"Syntactics, Inc.",2022-02-21,"TEST 0987",10-wheeler,100

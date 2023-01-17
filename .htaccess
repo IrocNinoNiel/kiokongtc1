@@ -1,0 +1,5 @@
+RewriteEngine on
+#RewriteCond %{HTTPS} off
+#RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond $1 !^(index\.php|images|css|js|pdf|upload|abs|robots\.txt)
+RewriteRule ^(.*)$ /kiokongtc/index.php/$1 [L]

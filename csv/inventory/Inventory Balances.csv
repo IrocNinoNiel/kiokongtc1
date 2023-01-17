@@ -1,0 +1,14 @@
+"Inventory Balances"
+
+Affiliate,All
+Classification,All
+Item,All
+"Records As Of","12/23/2021 08:00 AM"
+
+Affiliate,"Item Name",Classification,Unit,Cost,"Reorder Point",Balance
+"Syntactics, Inc.","Sample Item","Sample Class",l,150.00,5,15
+"H Company","Sample Item","Sample Class",l,150.00,5,5
+"Syntactics, Inc.","Del Monte Pineapple Juice",Beverage,ml,24.50,100,85
+"H Company","Del Monte Pineapple Juice",Beverage,ml,24.50,100,5
+"Syntactics, Inc.","Nescafe Coffee",Beverage,ml,30.00,50,20
+"Syntactics, Inc.",SampTestAff,Tools,unit,0.00,0,2

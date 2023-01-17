@@ -1,0 +1,11 @@
+title,"Sales Return Summary"
+Affiliate,All
+"Reference Number",All
+Item,All
+"Date From","08/16/2021 15:07:00"
+"Date To","09/16/2021 15:07:00"
+
+Affiliate,Date,Reference,Customer,Code,Item,Classification,Cost,Qty,Amount
+"Syntactics, Inc.",2021-08-18,"SR - 2","Sample Customer",0003,Hammer,Tools,132.00,2,500.00
+"Syntactics, Inc.",2021-08-19,"SR - 3","K Mart",0002,"Nescafe Coffee",Beverage,0.00,10,300.00
+,,,,,,,,,800

@@ -1,0 +1,5 @@
+"Purchase Order"
+
+
+"PO Number",Date,Affiliate,"Cost Center","Supplier Name","Ordered By","Noted By",Status,"Total Amount"
+,2021-12-01,"Syntactics, Inc.",,PO-10,"Mallory Figueroa",,Approved,294.00

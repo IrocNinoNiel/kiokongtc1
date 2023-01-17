@@ -1,0 +1,30 @@
+$base-color:#FFA76C !default;
+$font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif !default;
+$font-size: 13px;
+
+$panel-header-color: #fff !default;
+$panel-header-background-color: #FFA76C !default;
+
+$tab-background-gradient: color-stops(#ffd3b5, #ffd3b5) !default;
+$tab-background-gradient-active:  color-stops(#FFA76C, #FFA76C) !default;
+$tab-background-gradient-over:  color-stops(#FFA76C, #FFA76C) !default;
+$tab-background-gradient-disabled: 'tab-disabled' !default;
+$tab-color : #fff !default;
+
+$toolbar-background-color: #FFA76C !default;
+
+$tabbar-base-color: #FFA76C !default;
+$tabbar-border-color: #FFA76C !default;
+
+$button-toolbar-background-color : #FFA76C !default;
+$button-toolbar-color: #fff !default;
+$button-toolbar-border-color: #db8f5c !default;
+
+$toolbar-border-color: #FFA76C !default;
+$toolbar-text-color: mix(desaturate(lighten(#000, 37), 5), #000, 30) !default;
+
+$button-default-background-color: #FFA76C !default;
+
+$button-default-base-color-pressed: #FFA76C !default;
+
+$window-header-font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif !default;

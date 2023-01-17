@@ -1,0 +1,13 @@
+"Receivable Balances Ledger and SOA - Ledger"
+
+Affiliate,"Syntactics, Inc."
+"Sales Reference",All
+"Customer Name","Sample Customer"
+Date,"08/16/2021 to 09/16/2021"
+Date,"Invoice No.",Remarks,Charges,Payments,Balance
+,,"Beginning Balance","25,745.50",0.00,"25,745.50"
+09/14/2021,"CR - 3",,0.00,"25,545.50",200.00
+09/14/2021,"CR - 11",,0.00,"24,000.00","-23,800.00"
+09/14/2021,"SA - 1",,"124,700.00",0.00,"100,900.00"
+09/14/2021,"CR - 12",,0.00,"100,700.00",200.00
+,,,"150,445.50","150,245.50",200.00

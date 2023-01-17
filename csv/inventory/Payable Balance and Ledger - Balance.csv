@@ -1,0 +1,12 @@
+"Payable Balance and Ledger - Balance"
+
+Affiliate,All
+Supplier,All
+"As of",05/20/2022
+Affiliate,"Cost Center",Supplier,Charges,Payments,Balance
+"Syntactics, Inc.","New Supplier","4,342.50","3,000.00","1,342.50"
+"Syntactics, Inc.","QA Supplier","44,850.00",0.00,"44,850.00"
+"Syntactics, Inc.","M Supply Corp","11,164.60",0.00,"11,164.60"
+"Syntactics, Inc.","Supplier withholding tax",264.60,0.00,264.60
+"Syntactics, Inc.","Supplier Discount",529.20,0.00,529.20
+,,"61,150.90","3,000.00","58,150.90"

@@ -1,0 +1,11 @@
+"Cheque Reports"
+
+Affiliate,All
+Cheque,All
+Date,"08/16/2021 to 09/16/2021"
+"Cheque Status","All Cheques"
+
+Affiliate,"Cheque Date",Reference,Description,"Bank Account","Cheque Number",Amount,Status,"Status Date","Deposit To"
+"Syntactics, Inc.",2021-09-14,"CR - 10",,"BPI - Main Account",1121231321,"1,050.00",Outstanding,,
+"Syntactics, Inc.",2021-09-15,"CR - 3",,"BPI - Main Account",123456,"20,000.00",Outstanding,,
+"Syntactics, Inc.",2021-09-14,"CR - 11",,"BPI - Main Account",1213123,"24,000.00",Outstanding,,

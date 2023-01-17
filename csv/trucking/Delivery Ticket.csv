@@ -1,0 +1,6 @@
+"Delivery Ticket"
+
+
+Affiliate,Date,Reference,"Project Name","Driver Name","Plate Number","Truck Type","Customer Name","Total Amount"
+"Syntactics, Inc.",2022-02-21,DT-9,"Project w/ Manual ID","Nelle Buckley","TEST 0987",10-wheeler,Mark,50000
+"Syntactics, Inc.",2022-02-21,DT-1,"Project w/ Manual ID","Nelle Buckley",1232312312,"Dump Truck",Makmak,25000

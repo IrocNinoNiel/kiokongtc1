@@ -1,0 +1,10 @@
+title,"SO Monitoring - Balance"
+Affiliate,All
+Status,All
+"As of",12/23/2021
+
+Affiliate,Date,"SO No.",Customer,"Item Name",Unit,"Expected Qty","Actual Qty",Balance,Status
+"Syntactics, Inc.","2021-12-21 01:41 PM",SO-1,"New Customer","Del Monte Pineapple Juice",ml,100,50,50,Incomplete
+"Syntactics, Inc.","2021-12-21 02:42 PM",SO-2,"K Mart",Hammer,unit,100,25,75,Incomplete
+"Syntactics, Inc.","2021-12-21 02:42 PM",SO-2,"K Mart","Classified's Item",ciu,1,0,1,"Not Served"
+"Syntactics, Inc.","2021-12-21 02:42 PM",SO-2,"K Mart","Nescafe Coffee",ml,500,110,390,Incomplete

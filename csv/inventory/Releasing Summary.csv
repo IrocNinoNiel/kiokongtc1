@@ -1,0 +1,37 @@
+"Releasing Summary"
+
+Affiliate,All
+Reference,All
+Classification,All
+Item,All
+Customer,All
+Date,"08/16/2021 00:00 AM to 09/16/2021 15:03 PM"
+
+Affiliate,Date,Reference,"Customer Name",Code,"Item Name",Classification,Unit,Qty,Cost,Price,Amount
+"Syntactics, Inc.","2021-09-14 09:08:00","SA - 1","Sample Customer",newt,"New Item",Tools,m,20,0.00,189.00,"124,700.00"
+"Syntactics, Inc.","2021-09-14 09:08:00","SA - 1","Sample Customer",0001,"Del Monte Pineapple Juice",Beverage,ml,90,24.50,24.50,"124,700.00"
+"Syntactics, Inc.","2021-09-14 09:08:00","SA - 1","Sample Customer",0001,"Del Monte Pineapple Juice",Beverage,ml,100,24.50,24.50,"124,700.00"
+"Syntactics, Inc.","2021-09-14 09:08:00","SA - 1","Sample Customer",0002,"Nescafe Coffee",Beverage,ml,5,30.00,30.00,"124,700.00"
+"Syntactics, Inc.","2021-09-14 09:08:00","SA - 1","Sample Customer",0002,"Nescafe Coffee",Beverage,ml,10,0.00,30.00,"124,700.00"
+"Syntactics, Inc.","2021-08-19 13:19:00","SA - 4","K Mart",0002,"Nescafe Coffee",Beverage,ml,25,30.00,30.00,"1,050.00"
+"Syntactics, Inc.","2021-08-19 13:19:00","SA - 4","K Mart",0002,"Nescafe Coffee",Beverage,ml,10,0.00,30.00,"1,050.00"
+"H Company","2021-08-19 11:17:00","ST - 3",,,,,,100,24.50,0.00,0.00
+"H Company","2021-08-19 11:17:00","ST - 3",,,,,,2000,300.00,0.00,0.00
+"H Company","2021-08-19 11:17:00","ST - 3",,,,,,300,0.00,0.00,0.00
+"H Company","2021-08-19 11:17:00","ST - 3",,,,,,,0.00,0.00,0.00
+"H Company","2021-08-19 11:11:00","ST - 2",,,,,,100,0.00,0.00,0.00
+"H Company","2021-08-19 11:11:00","ST - 2",,,,,,100,24.50,0.00,0.00
+"H Company","2021-08-19 11:11:00","ST - 2",,,,,,20,132.00,0.00,0.00
+"H Company","2021-08-19 11:11:00","ST - 1",,,,,,,0.00,0.00,0.00
+"Syntactics, Inc.","2021-08-19 10:07:00","IC - 1",,0001,"Del Monte Pineapple Juice",Beverage,ml,10,24.50,245.00,300.00
+"Syntactics, Inc.","2021-08-18 15:16:35","PR - 4","K Mart",,,,,0,0.00,0.00,"20,425.00"
+"Syntactics, Inc.","2021-08-18 15:16:35","PR - 4","K Mart",0003,"Sample Item","Sample Class",l,25,150.00,0.00,"20,425.00"
+"Syntactics, Inc.","2021-08-18 15:16:35","PR - 4","K Mart",newt,"New Item",Tools,m,50,189.00,0.00,"20,425.00"
+"Syntactics, Inc.","2021-08-18 15:16:35","PR - 4","K Mart",0001,"Del Monte Pineapple Juice",Beverage,ml,50,24.50,0.00,"20,425.00"
+"Syntactics, Inc.","2021-08-18 15:16:35","PR - 4","K Mart",0002,"Nescafe Coffee",Beverage,ml,75,30.00,0.00,"20,425.00"
+"Syntactics, Inc.","2021-08-18 15:07:00","PR - 3","K Mart",,,,,0,0.00,0.00,"1,500.00"
+"Syntactics, Inc.","2021-08-18 15:07:00","PR - 3","K Mart",0003,"Sample Item","Sample Class",l,10,150.00,0.00,"1,500.00"
+"Syntactics, Inc.","2021-08-18 15:07:00","PR - 3","K Mart",newt,"New Item",Tools,m,0,189.00,0.00,"1,500.00"
+"Syntactics, Inc.","2021-08-18 15:07:00","PR - 3","K Mart",0001,"Del Monte Pineapple Juice",Beverage,ml,0,24.50,0.00,"1,500.00"
+"Syntactics, Inc.","2021-08-18 15:07:00","PR - 3","K Mart",0002,"Nescafe Coffee",Beverage,ml,0,30.00,0.00,"1,500.00"
+,,,,,,,,3100,1401.5,603,735525

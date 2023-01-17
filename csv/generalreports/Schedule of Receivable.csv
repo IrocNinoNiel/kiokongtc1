@@ -1,0 +1,11 @@
+"Schedule of Receivable"
+
+"Customer Name",All
+"Date From",11/21/2021
+"Date To",12/21/2021
+
+Affiliate,Reference,"Transaction Date ","Due Date","Customer Name",Description,Amount,Balance
+"Syntactics, Inc.",VR-100,"2021-12-14 07:46:00",2021-12-14,Christian,,"1,678.00","1,678.00"
+"Syntactics, Inc.",VR-101,"2021-12-14 10:47:00",2021-12-14,Junib,,"1,300.00","1,300.00"
+"Syntactics, Inc.",VR-102,"2021-12-14 10:49:00",2021-12-14,"Customer Penalty",,100.00,100.00
+,,,,,,"3,078.00","3,078.00"

@@ -1,0 +1,10 @@
+"Project Settings"
+
+
+Affiliate,Date,Reference,"Project ID","Project Name","Contract Duration","Contact Amount","Contract Effectivity","Contract Expiry","License Used",Status
+"Syntactics, Inc.",2022-08-19,CON-10,0016,"Latest Project",10000,1500000,2021-08-25,2022-08-19,15646974,Completed
+"Syntactics, Inc.",2022-08-18,CON-10,0015,"Test Project with Contract ID",123,123,2022-08-18,2022-08-18,213,Suspended
+"Syntactics, Inc.",2022-08-17,CON-10,0014,"Old Project",1,500000,2022-05-01,2022-05-06,154848,Completed
+"Syntactics, Inc.",2022-08-17,CON-9,0013,"Sample Project",2,5000000,2021-12-01,2023-06-30,15458487,Ongoing
+"Syntactics, Inc.",2022-08-17,CON-8,0012,"Project 02",2,30000000,2022-08-17,2024-08-17,5464768,Ongoing
+"Syntactics, Inc.",2022-06-08,CON-7,0011,"Project Name",100,50000,2022-06-08,2022-06-08,123,Ongoing

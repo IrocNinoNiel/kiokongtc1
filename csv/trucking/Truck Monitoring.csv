@@ -1,0 +1,14 @@
+"Truck Monitoring"
+Affiliate,"H Company"
+"Truck Type",
+"Project Type",Trucking
+"Project Name",All
+"Plate Number",All
+Driver,
+Date,"2021-12-04 to 2022-01-04"
+
+Affiliate,Date,"Plate Number","Truck Type",Driver,"Project Name",Activity,Odometer
+"Syntactics, Inc.",2022-01-04,"TEST 0987","Tow Truck",,Test,"Sample Activity",0
+"Syntactics, Inc.",2021-12-28,"SAM 1234",10-wheeler,"Nelle Buckley","Project w/ Manual ID",Rental,0
+"Syntactics, Inc.",2021-12-21,"TEST 0987","Pickup Truck","Kennedy Patel","Test Projects",Rental,0
+"Syntactics, Inc.",2021-12-15,TestThis,"Dump Truck","Kennedy Patel","Test Projects",Rental,0

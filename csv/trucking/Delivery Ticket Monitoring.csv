@@ -1,0 +1,16 @@
+"Delivery Ticket Monitoring"
+
+Affiliate,"Syntactics, Inc."
+"Project Type",Truck
+"Project Name",All
+Type,"Per Load"
+"Truck Type",All
+"Plate Number",All
+"Customer Name",All
+"Area Source",All
+"Date From",01/10/2022
+"Date To",10/10/2022
+
+Date,"Reference No.","Plate Number","Truck Type","Area Source","Customer Name",Number,Type,Rate,Total
+2022-02-21,DT-9,"TEST 0987",10-wheeler,CDO,Mark,10,Load,"5,000.00","50,000.00"
+,,,,,,,,0.00,0.00

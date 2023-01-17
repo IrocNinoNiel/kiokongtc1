@@ -1,0 +1,11 @@
+"Conversion Summary"
+
+Affiliate,All
+Reference,All
+Item,All
+Date,"08/16/2021 12:00 AM to 09/16/2021 23:45"
+
+Affiliate,Date,Reference,Code,Item,Unit,Cost,Received,Released,Amount
+"Syntactics, Inc.","2021-08-19 10:07:00","IC - 1",0002,"Nescafe Coffee",ml,0.00,10,0,0.00
+"Syntactics, Inc.","2021-08-19 10:07:00","IC - 1",0001,"Del Monte Pineapple Juice",ml,24.50,0,10,245.00
+,,,,,,24.50,10,10,245.00

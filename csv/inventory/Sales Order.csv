@@ -1,0 +1,8 @@
+"Sales Order"
+
+
+"Reference Number",Date,Customer,"Total Amount"
+"SO - 1000",2021-09-14,"Sample Customer",124700.00
+"SO - 3",2021-08-19,"K Mart",1050.00
+"SO - 2",2021-08-18,"K Mart",1485.00
+"SO - 1",2020-07-04,"Sample Customer",5280.00

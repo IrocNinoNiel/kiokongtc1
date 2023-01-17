@@ -1,0 +1,15 @@
+"Receivable Balances Ledger and SOA - Balance"
+
+Affiliate,All
+"Sales Reference",All
+"Customer Name",All
+"As of",09/16/2021
+Affiliate,Customer,Charges,Payments,Balance
+"Syntactics, Inc.","Sample Customer","150,745.50","125,000.00","25,745.50"
+"Syntactics, Inc.","K Mart","1,050.00",0.00,"1,050.00"
+Cairo,Christian,"2,134.00",0.00,"2,134.00"
+Cairo,Makmak,"5,500.00",0.00,"5,500.00"
+Cairo,"John Doe","70,000.00",0.00,"70,000.00"
+Cairo,"Customer Penalty","7,500.00",0.00,"7,500.00"
+Cairo,Junib,"61,500.00",0.00,"61,500.00"
+,,"298,429.50","125,000.00","173,429.50"

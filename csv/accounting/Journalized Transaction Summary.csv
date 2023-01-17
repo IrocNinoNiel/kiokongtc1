@@ -1,0 +1,13 @@
+"Journalized Transaction Summary"
+
+Affiliate,"Syntactics, Inc."
+Module,All
+Reference,All
+Date,"11/21/2021 to 12/21/2021"
+
+Date,Reference,"Account Code","Account Name",Debit,Credit
+2021-12-15,"DT - 1",1101001,"Accounts Receivable - Customer 1",0.00,"1,000.00"
+2021-12-15,"DT - 1",1101000,"Accounts Receivable","1,000.00",0.00
+2021-12-15,"RHE - 14",1101000,"Accounts Receivable","1,500.00",0.00
+2021-12-15,"RHE - 14",2101000,"Accounts Payable",0.00,"1,500.00"
+,,,,2500,2500
